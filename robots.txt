@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hcpark0121.github.io/carlog/sitemap.xml
